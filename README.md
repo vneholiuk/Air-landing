@@ -17,7 +17,7 @@ It includes an image slider with navigation buttons, as well as a footer with co
 
 - HTML5
 - CSS3 (Sass)
-- JavaScript (React)
+- JavaScript
 
 ## Installation
 
